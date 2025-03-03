@@ -20,7 +20,7 @@ The modular approach is crucial for maintaing clean, reusable and scalable code.
 
 I break down large objectives into smaller, more manageable tasks. This allows me to work incrementally, ensuring steady progress while maintaing focus on the functionality of each component. 
 
-**What new development strategies did you use while working on your 3D scene?*8
+**What new development strategies did you use while working on your 3D scene?**
 
 I strengthened my C++ programming skills and gained hands on experience with OpenGL. Additionally, I embraced a mindset of continuous learning because I allowed my self the time to experiment, learn from mistakes and improve the way I implement software. 
 
@@ -32,7 +32,7 @@ Iteration played a crucial role in creating my 3D scene. Through trial and error
 
 With each successful milestone, I gained confidence in my skills and because more creative in my problem-solving approach. This growth allowed me to experiment with new techniques and impoement features more efficently.
 
-*8How can computer science help me in reaching my goals?**
+**How can computer science help me in reaching my goals?**
 
 Since I want to work in game development, computer science provides me with important knowledge in programming, graphics and software engineering. The skills I'm building will be valuable for future internships and my professional growth.
 
